@@ -1,0 +1,14 @@
+layout_spectrum: 0.9683136
+color:
+  saturation: 0.4588386
+  lightness: 0.36086
+  brandStrength: 0.9758323
+  brandColors:
+    - '#4B3930'
+    - '#88654B'
+    - '#B3BEB5'
+    - '#20201E'
+    - '#AC9A87'
+  rhythmicContrast: 0.7066942
+typography_spectrum: 0.1247936
+name: TEST0331
